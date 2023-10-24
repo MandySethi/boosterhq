@@ -1,40 +1,4 @@
-# Ignore files with .log extension
-*.log
-
-# Ignore files with .txt extension
-*.txt
-
-# Ignore files with .csv extension
-*.csv
-
-# Ignore files with .xml extension
-*.xml
-
-# Ignore files with .zip extension
-*.zip
-
-# Ignore files with .tar.gz extension
-*.tar.gz
-
-# Ignore files with .pyc extension
-*.pyc
-
-# Ignore files with .class extension
-*.class
-
-# Ignore files with .jar extension
-*.jar
-
-# Ignore files with .war extension
-*.war
-
-# Ignore files with .ear extension
-*.ear
-
-# Ignore files with .iml extension (IntelliJ IDEA project files)
-*.iml
-
 # Ignore files with .idea/ directory (IntelliJ IDEA project files)
 .idea/
 .DS_Store
-./assets/vendor/*/*
+CSNAME
